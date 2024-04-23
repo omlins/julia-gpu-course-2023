@@ -29,7 +29,7 @@ This git repository contains the material for the part 2 of the course (speaker:
 
 #### Edited course recording
 
-The edited course recording is found [here](https://youtu.be/plgbsH9f7gI?si=YUNaaOSE6wBQazcm) (part 1) and [here](https://youtu.be/Emr9gfcQr9A?si=-jXy-Hb2apwtggAp) (part 1). The following list provides key entry points into the videos.
+The edited course recording is found [here](https://youtu.be/plgbsH9f7gI?si=YUNaaOSE6wBQazcm) (part 2) and [here](https://youtu.be/Emr9gfcQr9A?si=-jXy-Hb2apwtggAp) (part 1). The following list provides key entry points into the videos.
 
 Part 1
 
